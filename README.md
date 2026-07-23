@@ -21,7 +21,7 @@
 
 I build software that connects **technology, intelligence, and human experience**.
 
-I’m a Software Engineer passionate about transforming ideas into practical, scalable, and user-focused digital solutions. My experience and interests span full-stack web development, database systems, artificial intelligence, software architecture, and user experience design.
+I’m a Software Engineer passionate about transforming ideas into practical, scalable, and user focused digital solutions. My experience and interests span full stack web development, database systems, artificial intelligence, software architecture, and user experience design.
 
 From building personal finance platforms and e-commerce systems to exploring AI-powered applications, I enjoy solving real-world problems through technology and continuously improving my engineering skills.
 
